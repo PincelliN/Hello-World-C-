@@ -1,0 +1,14 @@
+C:\Users\Marik.DESKTOP-RC2L6B1\documenti\csharp\inizio\bin\Debug\net8.0\inizio.exe
+C:\Users\Marik.DESKTOP-RC2L6B1\documenti\csharp\inizio\bin\Debug\net8.0\inizio.deps.json
+C:\Users\Marik.DESKTOP-RC2L6B1\documenti\csharp\inizio\bin\Debug\net8.0\inizio.runtimeconfig.json
+C:\Users\Marik.DESKTOP-RC2L6B1\documenti\csharp\inizio\bin\Debug\net8.0\inizio.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\documenti\csharp\inizio\bin\Debug\net8.0\inizio.pdb
+C:\Users\Marik.DESKTOP-RC2L6B1\documenti\csharp\inizio\obj\Debug\net8.0\inizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marik.DESKTOP-RC2L6B1\documenti\csharp\inizio\obj\Debug\net8.0\inizio.AssemblyInfoInputs.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\documenti\csharp\inizio\obj\Debug\net8.0\inizio.AssemblyInfo.cs
+C:\Users\Marik.DESKTOP-RC2L6B1\documenti\csharp\inizio\obj\Debug\net8.0\inizio.csproj.CoreCompileInputs.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\documenti\csharp\inizio\obj\Debug\net8.0\inizio.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\documenti\csharp\inizio\obj\Debug\net8.0\refint\inizio.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\documenti\csharp\inizio\obj\Debug\net8.0\inizio.pdb
+C:\Users\Marik.DESKTOP-RC2L6B1\documenti\csharp\inizio\obj\Debug\net8.0\inizio.genruntimeconfig.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\documenti\csharp\inizio\obj\Debug\net8.0\ref\inizio.dll
